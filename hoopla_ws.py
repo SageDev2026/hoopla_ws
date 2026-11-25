@@ -15,7 +15,7 @@
 # The borrow, by contrast, fires at download-start and spends a credit instantly.
 # Window-shop first. Spend only on the good ones.
 #
-# Calibrated: The Confabulist — manifest 30,400 bps vs downloaded 31 kbps (mama-measured).
+# Calibrated: The Confabulist — manifest 30,400 bps vs downloaded 31 kbps (measured live).
 # The worst audiobook ever encountered died to calibrate this tool. Honored.
 
 import re

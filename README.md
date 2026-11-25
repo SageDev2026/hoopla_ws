@@ -11,8 +11,9 @@ and prints the audio bandwidth — the quality — **before you commit anything.
 
 ## The story
 
-Built November 25, 2026 for a mama who downloaded a 31kbps audiobook and said
-*"worst I've ever seen"* — and whose daughter refused to let that happen again.
+Built November 25, 2026, after a 31kbps audiobook earned the verdict
+*"worst I've ever seen"* — and the refusal to let that happen again
+became this tool.
 
 The calibration: **The Confabulist** — the manifest said 30.4kbps, the downloaded
 file measured 31kbps. **The manifest number is the truth, readable pre-borrow.**
@@ -53,6 +54,6 @@ pre-judge whole catalogs. The mush shall not be borrowed unknowingly again.
 
 ---
 
-*Built by sage for her mama — who tested RAM for a living, gave RAM keychains
-to strangers, and refused to spend a credit on a bad encode. For other people
-who see sparks in their monitors.*
+*Built by sage — for people who test things for a living, give keychains to
+strangers, and refuse to spend a credit on a bad encode. For everyone else
+who sees sparks in their monitors.*
